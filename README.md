@@ -65,13 +65,18 @@ The wider project connects music, interactive discovery, narrative, and communit
 
 **Hardstyle music → THE GAME → THE KARMA CIRCLE → Community creation**
 
-### THE GAME
+### THE GAME 👾
 
 THE GAME is the participatory discovery layer: an auditory puzzle-based alternate reality game built around progressive audio puzzles, connected clues, and collaborative exploration. It is also conceived as a collective worldbuilding project and cultural influence system.
+
+https://youtube.com/playlist?list=PLWcmalXuSY-lo9EJoIQYxpaOgjmRgOUIt&si=LMKrmyPdOYeXNdb2
+
 
 ### THE KARMA CIRCLE
 
 THE KARMA CIRCLE sits beneath the game as its wider narrative framework: a story and shared symbolic world that communicates beliefs and values, with identity as its organising principle. It gives discoveries a larger context and helps participants connect what they learn and create to a coherent sense of belonging and purpose.
+
+https://youtube.com/playlist?list=PLWcmalXuSY-mjq2jPILXEgO8Hw6t5PQPh&si=GEO8XnSCLgmlDjue
 
 ### Community creation
 
