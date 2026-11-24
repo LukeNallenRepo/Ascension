@@ -7,7 +7,7 @@ Lucifer's Language is a proposed audio communication system built from deliberat
 The project explores **instrumental vocalisation**: transforming the kick, melody, bass, percussion, and sound-design elements of Hardstyle and Hard Techno into a structured audio language that gives instruments the perceptual qualities of a voice.
 
 > **Project status:** Developmental blueprint  
-> **Author:** Luke Nallen  
+> **Author:** Luke Nallen (Dunne)
 > **Version:** 3.4  
 > **Classification:** Perceptual Communication Systems Architecture
 
